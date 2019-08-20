@@ -13,7 +13,7 @@ Or use Singularity, see below.
 ## Use
 Locally
 ~~~~
-python3 make_able.py
+python3 maketable.py
 ~~~~
 
 Run using [Singularity](https://sylabs.io/singularity/)
