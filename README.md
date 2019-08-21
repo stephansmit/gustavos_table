@@ -13,11 +13,11 @@ Or use Singularity, see below.
 ## Use
 Locally
 ~~~~
-python3 make_table.py
+python3 maketable.py
 ~~~~
 
 Run using [Singularity](https://sylabs.io/singularity/)
 ~~~~
 singularity pull shub://stephansmit/gmsh_containers
-singularity exec gmsh_containers_latest.sif python3 make_table.py
+singularity exec gmsh_containers_latest.sif python3 maketable.py
 ~~~~
